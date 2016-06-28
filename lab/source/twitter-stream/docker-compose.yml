@@ -1,0 +1,24 @@
+version: '2'
+
+services:
+  twitter-source:
+    image: springcloudstream/twitterstream-source-kafka
+    environment:
+      - twitter.credentials.consumer-key=???
+      - twitter.credentials.consumer-secret=???
+      - twitter.credentials.access-token=???
+      - twitter.credentials.access-token-secret=???
+      - twitter.stream.language=de
+      - spring.cloud.stream.kafka.binder.brokers=192.168.99.100
+      - spring.cloud.stream.kafka.binder.zkNodes=192.168.99.100
+      - spring.cloud.stream.bindings.output.destination=twitter-stream
+    depends_on:
+      - kafka
+  kafka:
+    image: spotify/kafka
+    ports:
+      - "2181:2181"
+      - "9092:9092"
+    environment:
+      ADVERTISED_HOST: 192.168.99.100
+      ADVERTISED_PORT: 9092

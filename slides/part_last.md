@@ -1,13 +1,11 @@
-### Wrapping Up
-
+### Feedback
 <!-- .slide: data-background="img/background-orange-orig.jpg" -->
 
+Any questions left?
+
+Anyway: Tks for your patience ;)
+
 ---
-
-### Feedback
-
----
-
 ### The End
 
 &nbsp;
