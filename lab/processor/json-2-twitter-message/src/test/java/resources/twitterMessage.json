@@ -1,0 +1,132 @@
+{
+   "created_at":"Sun Jul 10 10:39:07 +0000 2016",
+   "id":752089764493484032,
+   "id_str":"752089764493484032",
+   "text":"@alex13wetter @UweSge wenn`s euch net g\u00e4b, m\u00fc\u00dft mer euch erfinne.... :-D",
+   "source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+   "truncated":false,
+   "in_reply_to_status_id":752089429452390400,
+   "in_reply_to_status_id_str":"752089429452390400",
+   "in_reply_to_user_id":17710558,
+   "in_reply_to_user_id_str":"17710558",
+   "in_reply_to_screen_name":"alex13wetter",
+   "user":{
+      "id":1039110932,
+      "id_str":"1039110932",
+      "name":"Wolfgang Fritz",
+      "screen_name":"wfritz56",
+      "location":"Frankfurt",
+      "url":"http:\/\/efc-ostend.de",
+      "description":"Blueser, Eintracht Frankfurt Fan EFC-Kutscherklause-Ostend                       EFC Kalsarik\u00e4nnit",
+      "protected":false,
+      "verified":false,
+      "followers_count":171,
+      "friends_count":140,
+      "listed_count":23,
+      "favourites_count":9449,
+      "statuses_count":5301,
+      "created_at":"Thu Dec 27 08:06:40 +0000 2012",
+      "utc_offset":7200,
+      "time_zone":"Berlin",
+      "geo_enabled":true,
+      "lang":"de",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "profile_background_color":"000000",
+      "profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/687237273067335680\/nzRMwh8o.png",
+      "profile_background_image_url_https":"https:\/\/pbs.twimg.com\/profile_background_images\/687237273067335680\/nzRMwh8o.png",
+      "profile_background_tile":false,
+      "profile_link_color":"ABB8C2",
+      "profile_sidebar_border_color":"000000",
+      "profile_sidebar_fill_color":"000000",
+      "profile_text_color":"000000",
+      "profile_use_background_image":true,
+      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/714352224160321536\/yVWETjBf_normal.jpg",
+      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/714352224160321536\/yVWETjBf_normal.jpg",
+      "profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/1039110932\/1459149555",
+      "default_profile":false,
+      "default_profile_image":false,
+      "following":null,
+      "follow_request_sent":null,
+      "notifications":null
+   },
+   "geo":null,
+   "coordinates":null,
+   "place":{
+      "id":"c589d9d6ed38927c",
+      "url":"https:\/\/api.twitter.com\/1.1\/geo\/id\/c589d9d6ed38927c.json",
+      "place_type":"city",
+      "name":"Frankfurt am Main",
+      "full_name":"Frankfurt am Main, Deutschland",
+      "country_code":"DE",
+      "country":"Deutschland",
+      "bounding_box":{
+         "type":"Polygon",
+         "coordinates":[
+            [
+               [
+                  8.472715,
+                  50.015520
+               ],
+               [
+                  8.472715,
+                  50.226951
+               ],
+               [
+                  8.800496,
+                  50.226951
+               ],
+               [
+                  8.800496,
+                  50.015520
+               ]
+            ]
+         ]
+      },
+      "attributes":{
+
+      }
+   },
+   "contributors":null,
+   "is_quote_status":false,
+   "retweet_count":0,
+   "favorite_count":0,
+   "entities":{
+      "hashtags":[
+
+      ],
+      "urls":[
+
+      ],
+      "user_mentions":[
+         {
+            "screen_name":"alex13wetter",
+            "name":"Alex",
+            "id":17710558,
+            "id_str":"17710558",
+            "indices":[
+               0,
+               13
+            ]
+         },
+         {
+            "screen_name":"UweSge",
+            "name":"Kaffee\/Kippen\/Mett",
+            "id":3704839335,
+            "id_str":"3704839335",
+            "indices":[
+               14,
+               21
+            ]
+         }
+      ],
+      "symbols":[
+
+      ]
+   },
+   "favorited":false,
+   "retweeted":false,
+   "filter_level":"low",
+   "lang":"de",
+   "timestamp_ms":"1468147147664"
+}
