@@ -1,4 +1,4 @@
-# Spring Cloud Stream -- From Zero To Hero
+# Spring Cloud Stream – From Zero To Hero
 
 Launching the lab exercise "Twitter Streaming"
 ==============================================
