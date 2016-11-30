@@ -1,0 +1,13 @@
+---
+pipeline: "node/CanaryReleaseStageAndApprovePromote/Jenkinsfile"
+buildName: "cloud-stream-from-zero-to-hero"
+codeReview: true
+links:
+  Git: "git@github.com:qabbasi/cloud-stream-from-zero-to-hero.git"
+  Job: "http://192.168.99.100:30270/job/cloud-stream-from-zero-to-hero"
+  Production: "http://10.0.0.75:80/kubernetes/pods?namespace=default-production"
+  Staging: "http://10.0.0.75:80/kubernetes/pods?namespace=default-staging"
+environments:
+  Staging: "default-staging"
+  Production: "default-production"
+useLocalFlow: true
